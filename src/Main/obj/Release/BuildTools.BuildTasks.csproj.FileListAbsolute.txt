@@ -1,0 +1,9 @@
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\src\obj\Release\Tamu.GeoInnovation.BuildTools.BuildTasks.Main.sln.dll
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\src\obj\Release\Tamu.GeoInnovation.BuildTools.BuildTasks.Main.sln.pdb
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\src\obj\Release\BuildTools.BuildTasks.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\BuildTools\BuildTasks\build\1.0.0\release\Tamu.GeoInnovation.BuildTools.BuildTasks.Main.sln.dll
+C:\DevBuild\Tamu\GeoInnovation\BuildTools\BuildTasks\build\1.0.0\release\Tamu.GeoInnovation.BuildTools.BuildTasks.Main.sln.pdb
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.BuildTools.BuildTasks.dll
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.BuildTools.BuildTasks.pdb
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.BuildTasks.dll
+C:\DevSource\Tamu\GeoInnovation\BuildTools\BuildTasks\src\Main\obj\Release\Tamu.GeoInnovation.BuildTools.BuildTasks.pdb
